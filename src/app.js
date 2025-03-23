@@ -20,7 +20,7 @@ app.use(cors({
         "https://study-notion-frontend-git-main-shubham-kumars-projects-c7fe827c.vercel.app",
         "http://localhost:3001"
     ],
-    credentials: true,
+    credentials: true, 
 }));
 
 
